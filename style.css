@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+li {
+    list-style: none;
+}
+
+.top {
+    background-image: url(main-vsual-nontitle.png);
+    background-size: cover;
+}
+
+.course {
+    background-color: #e3fcf4;
+}
+
+.form-control {
+  padding:30px;
+  border-radius:99px;
+  border: 3px solid #d8d8d8;
+}
